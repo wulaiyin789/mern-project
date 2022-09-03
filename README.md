@@ -4,7 +4,7 @@ A MERN Project based on MongoDB, Express, React & Node.js
 **As you can see the images are broken, images are not available to store in the Database at the moment.**
 
 # Website Example
-[Example Link](https://places-store-project-peter.herokuapp.com/)
+[Example Link](https://places-store-project.web.app/)
 
 ## Tasks
 - [x] Complete Frontend
